@@ -1,10 +1,8 @@
-﻿venv/
+venv/
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-dataset/train_transaction.csv
-dataset/test_transaction.csv
-dataset/anomaly_data.csv
-dataset/bcs_data.csv
+
+dataset/*.csv
