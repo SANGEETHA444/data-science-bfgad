@@ -1,0 +1,7 @@
+Metric,Value
+Average Trust,0.5346
+Maximum Trust,0.8561
+Minimum Trust,0.5275
+Trusted Nodes (>0.80),2.0
+Medium Trust (0.60-0.80),0.0
+Low Trust (<0.60),30705.0

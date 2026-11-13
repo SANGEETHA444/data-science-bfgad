@@ -1,0 +1,10 @@
+Feature,SHAP_Mean,LGB_Importance
+UserReputation,3.610169,1249
+BCS,1.113043,1093
+AAS,0.67574,2004
+FusionScore,0.500368,1747
+LoginFrequency,0.465157,536
+TransactionRisk,0.4162,1202
+GraphTrustScore,0.289153,1153
+DeviceTrustScore,0.0,0
+BrowserConsistency,0.0,0

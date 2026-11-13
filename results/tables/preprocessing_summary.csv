@@ -1,0 +1,9 @@
+Metric,Value
+Original Rows,590540
+Final Rows,27035
+Original Columns,434
+Final Columns,434
+Duplicate Rows Removed,0
+Missing Values Filled,115523073
+Outliers Removed,563505
+Encoded Features,31

@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.6196
+Precision,0.0238
+Recall,0.9091
+F1 Score,0.0464
+Feedback Samples,2069.0
+Total Batches,43.0

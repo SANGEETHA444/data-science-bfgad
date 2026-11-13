@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run BGFAD pipeline",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"main.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run BGFAD dashboard UI",
+			"type": "shell",
+			"command": "streamlit",
+			"args": [
+				"run",
+				"dashboard.py",
+				"--server.address",
+				"127.0.0.1",
+				"--server.port",
+				"8501"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+Feature,Description
+LoginFrequency,Number of user logins
+AvgTransactionAmount,Average amount spent
+TransactionVelocity,Time between transactions
+DeviceTrustScore,Trust score of device
+BrowserConsistency,Browser consistency
+UserReputation,Historical user reputation
+TransactionRisk,Risk based on transaction amount
+SessionRisk,Risk based on login time
+IdentityScore,Identity confidence
+BehaviorDrift,Behavioral deviation
